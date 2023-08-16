@@ -1,8 +1,8 @@
 package table
 
 import (
-	"github.com/yofu/dxf/format"
-	"github.com/yofu/dxf/handle"
+	"github.com/silence-lml/dxf/format"
+	"github.com/silence-lml/dxf/handle"
 )
 
 // BlockRecord represents BLOCK_RECORD SymbolTable.

@@ -2,7 +2,7 @@
 package object
 
 import (
-	"github.com/yofu/dxf/format"
+	"github.com/silence-lml/dxf/format"
 )
 
 // Object is interface for OBJECT.

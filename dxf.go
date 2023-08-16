@@ -10,9 +10,9 @@ import (
 	"os"
 	"strings"
 
-	"github.com/yofu/dxf/color"
-	"github.com/yofu/dxf/drawing"
-	"github.com/yofu/dxf/table"
+	"github.com/silence-lml/dxf/color"
+	"github.com/silence-lml/dxf/drawing"
+	"github.com/silence-lml/dxf/table"
 )
 
 // Default values.

@@ -4,9 +4,9 @@ import (
 	"log"
 	"math"
 
-	"github.com/yofu/dxf"
-	"github.com/yofu/dxf/color"
-	"github.com/yofu/dxf/table"
+	"github.com/silence-lml/dxf"
+	"github.com/silence-lml/dxf/color"
+	"github.com/silence-lml/dxf/table"
 )
 
 func main() {

@@ -1,8 +1,8 @@
 package block
 
 import (
-	"github.com/yofu/dxf/format"
-	"github.com/yofu/dxf/table"
+	"github.com/silence-lml/dxf/format"
+	"github.com/silence-lml/dxf/table"
 )
 
 // Block represents each BLOCK.
